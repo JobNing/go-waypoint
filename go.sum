@@ -4,3 +4,5 @@ github.com/alecthomas/repr v0.2.0 h1:HAzS41CIzNW5syS8Mf9UwXhNH1J9aix/BvDRf1Ml2Yk
 github.com/alecthomas/repr v0.2.0/go.mod h1:Fr0507jx4eOXV7AlPV6AVZLYrLIuIeSOWtW57eE/O/4=
 github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUqJM=
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
+github.com/twpayne/go-waypoint v0.1.0 h1:Ds5iK1+ag9MM9Y7Uiig1nzgD39Z402vYkpp1j+c/Y3Q=
+github.com/twpayne/go-waypoint v0.1.0/go.mod h1:iLAdRKZJUaMhj2nzYl9cLV3hbxol5vnI2VPmWLCDRuU=
